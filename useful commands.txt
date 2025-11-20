@@ -1,0 +1,8 @@
+# Clone and stage lesson
+git status #to see changes
+git add #add file to the STAGING
+git commit -m "commit no"
+git push origin master
+git diff #to see changes in the file
+
+#Facebook Leraning to code
